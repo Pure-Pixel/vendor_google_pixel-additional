@@ -3,7 +3,6 @@
 # Radio
 product/etc/permissions/com.android.sdm.plugins.diagmon.xml
 product/priv-app/DiagMon/DiagMon.apk
-product/priv-app/EuiccGoogle/EuiccGoogle.apk;PRESIGNED
 system_ext/etc/permissions/com.google.euiccpixel.permissions.xml
 system_ext/etc/permissions/com.google.euiccpixel.xml
 

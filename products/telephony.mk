@@ -53,9 +53,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/pixel-additional/radio/proprietary/system_ext/etc/permissions/com.google.euiccpixel.permissions.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/com.google.euiccpixel.permissions.xml \
     vendor/google/pixel-additional/radio/proprietary/system_ext/etc/permissions/com.google.euiccpixel.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/com.google.euiccpixel.xml
 
-PRODUCT_PACKAGES += \
-    EuiccGoogle
-
 # Custom hidden api whitelist
 PRODUCT_PACKAGES += \
     com.google.android.euicc_whitelist_custom.xml

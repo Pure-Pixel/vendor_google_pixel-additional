@@ -37,10 +37,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libpixelimsmedia \
     libmediaadaptor \
-    DiagMon \
-    ImsMediaService \
-    ShannonIms \
-    ShannonRcs
+    DiagMon
 
 $(call inherit-product, vendor/google/pixel-additional/radio/radio-vendor.mk)
 endif
